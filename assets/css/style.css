@@ -1880,3 +1880,10 @@ textarea.form-input::-webkit-resizer { display: none; }
   .timeline-text { max-width: 700px; }
 
 }
+
+.tool-logo {
+  filter: brightness(0) invert(1) !important;
+  opacity: 0.9;
+}
+
+
